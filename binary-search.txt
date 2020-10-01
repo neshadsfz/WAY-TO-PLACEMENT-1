@@ -1,0 +1,10 @@
+Binary search 
+* works on sorted array.
+* repeatedly halving the array and searching in the half.
+
+Two ways:
+1. Recusrsion
+2. Iterative
+
+recursion, calls again the binarySearch function, iterative method is fast and easy.
+
