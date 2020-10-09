@@ -1,0 +1,10 @@
+Linear search( traverses all the index untill the required is matched )
+	worst case	- o(n)
+	best case	- o(1)
+	Average case	- o(n/2)
+	worst case space- o(1)
+
+* starts from left side.
+* if matched return index.
+* else return -1.
+
